@@ -60,7 +60,8 @@ const Home = () => {
       border: "1px solid #dddfe2",
       fontSize: "16px",
       boxSizing: "border-box",
-      backgroundColor: "white"
+      backgroundColor: "white",
+      color: "gray"
     },
     button: {
       width: "100%",
