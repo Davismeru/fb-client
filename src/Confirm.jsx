@@ -12,6 +12,7 @@ const Confirm = ({ username, profilePic, onConfirm, onCancel }) => {
       margin: "40px auto",
       textAlign: "center",
       fontFamily: "Arial, sans-serif",
+      color: "gray"
     },
     heading: {
       fontSize: "18px",

@@ -10,9 +10,10 @@ const Home = () => {
       alignItems: "center",
       justifyContent: "center",
       minHeight: "100vh",
-      backgroundColor: "#f0f2f5",
+      backgroundColor: "white",
       fontFamily: "Helvetica, Arial, sans-serif",
       padding: "20px",
+      color: "gray"
     },
 
     errorMessage: {
@@ -59,6 +60,7 @@ const Home = () => {
       border: "1px solid #dddfe2",
       fontSize: "16px",
       boxSizing: "border-box",
+      backgroundColor: "white"
     },
     button: {
       width: "100%",
